@@ -1,0 +1,1002 @@
+{
+  "roles": [
+    {
+      "name": "developer",
+      "id": "396393671580319754",
+      "icon": "https://cdn.discordapp.com/role-icons/396393671580319754/7a08434e2758834a22ae2d1cd7636696.png",
+      "color": "#992d22",
+      "count": "2",
+      "users": [
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "slindev",
+          "userid": "329735546467385344"
+        }
+      ]
+    },
+    {
+      "name": "super-moderator",
+      "id": "1247687407927820379",
+      "color": "#71368a",
+      "count": "3",
+      "users": [
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        }
+      ]
+    },
+    {
+      "name": "moderator",
+      "id": "955582352510316604",
+      "icon": "https://cdn.discordapp.com/role-icons/955582352510316604/db207653a04909cf819fefd75cbea527.png",
+      "color": "#e67e22",
+      "count": "13",
+      "users": [
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "caziggy1",
+          "userid": "603354584886542346"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "Grabby#3146",
+          "userid": "1026832636427108365"
+        },
+        {
+          "username": "GrabbyTickets#0468",
+          "userid": "1184181680982999142"
+        },
+        {
+          "username": "joshiidkwhy",
+          "userid": "411152650877272064"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "slindev",
+          "userid": "329735546467385344"
+        },
+        {
+          "username": "cjbeast006",
+          "userid": "744288513779826831"
+        },
+        {
+          "username": "d.goose",
+          "userid": "663202311031619624"
+        }
+      ]
+    },
+    {
+      "name": "grab-moderator",
+      "id": "922590627106013245",
+      "icon": "https://cdn.discordapp.com/role-icons/922590627106013245/db207653a04909cf819fefd75cbea527.png",
+      "color": "#2ecc71",
+      "count": "9",
+      "users": [
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "caziggy1",
+          "userid": "603354584886542346"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "joshiidkwhy",
+          "userid": "411152650877272064"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "d.goose",
+          "userid": "663202311031619624"
+        }
+      ]
+    },
+    {
+      "name": "grab-moderator-retired",
+      "id": "1147866775770386432",
+      "color": "#546e7a",
+      "count": "5",
+      "users": [
+        {
+          "username": "electra901",
+          "userid": "431961775857074186"
+        },
+        {
+          "username": "hanslukas",
+          "userid": "282922557622059009"
+        },
+        {
+          "username": "mc1125",
+          "userid": "710539062666067998"
+        },
+        {
+          "username": "nfid",
+          "userid": "795766160448290847"
+        },
+        {
+          "username": "cjbeast006",
+          "userid": "744288513779826831"
+        }
+      ]
+    },
+    {
+      "name": "unicorn",
+      "id": "520641504222511114",
+      "color": "#e2749c",
+      "count": "12",
+      "users": [
+        {
+          "username": "gurkeline",
+          "userid": "535564847128248332"
+        },
+        {
+          "username": "boop90",
+          "userid": "136506615523311617"
+        },
+        {
+          "username": "finity88",
+          "userid": "308657881115525122"
+        },
+        {
+          "username": "kuckii",
+          "userid": "294529535687393291"
+        },
+        {
+          "username": "lonegecko",
+          "userid": "305228776814673925"
+        },
+        {
+          "username": "mateuszdrwal",
+          "userid": "140504440930041856"
+        },
+        {
+          "username": "curvedcactuz",
+          "userid": "285811053902823446"
+        },
+        {
+          "username": "na_da",
+          "userid": "338649491894829057"
+        },
+        {
+          "username": "sendotarget",
+          "userid": "119095000050040832"
+        },
+        {
+          "username": "streetboo",
+          "userid": "283313925624299520"
+        },
+        {
+          "username": "vadix.",
+          "userid": "362132171701354497"
+        },
+        {
+          "username": "xxlilradxx",
+          "userid": "222792696488656896"
+        }
+      ]
+    },
+    {
+      "name": "grab-content-creator",
+      "id": "1279929310890692639",
+      "color": "#e91e63",
+      "count": "13",
+      "users": [
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "cactusvr_official",
+          "userid": "532215322325811214"
+        },
+        {
+          "username": "caziggy1",
+          "userid": "603354584886542346"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "fruitbythefist",
+          "userid": "889612225147441222"
+        },
+        {
+          "username": "glingus",
+          "userid": "911753570653704252"
+        },
+        {
+          "username": "gvpikachu",
+          "userid": "817995847253622794"
+        },
+        {
+          "username": "ima_rainbow",
+          "userid": "802312164924063795"
+        },
+        {
+          "username": "spacedude2076",
+          "userid": "601788810933698571"
+        },
+        {
+          "username": "the.nothing",
+          "userid": "1002271562491252818"
+        },
+        {
+          "username": "yoohoovr",
+          "userid": "1122927323583357018"
+        },
+        {
+          "username": "ilovegrab",
+          "userid": "1176977149035548705"
+        }
+      ]
+    },
+    {
+      "name": "grab-tester",
+      "id": "925413560752930937",
+      "color": "#f1c40f",
+      "count": "71",
+      "users": [
+        {
+          "username": "vestriaa",
+          "userid": "958465544628076635"
+        },
+        {
+          "username": "auransimia",
+          "userid": "600799174165921833"
+        },
+        {
+          "username": "levi_athan",
+          "userid": "792164879393357834"
+        },
+        {
+          "username": ".index",
+          "userid": "649165311257608192"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "aft_daringg",
+          "userid": "1262906548590608426"
+        },
+        {
+          "username": "anton.exe",
+          "userid": "427151562641637376"
+        },
+        {
+          "username": "balls0_",
+          "userid": "873630113000996905"
+        },
+        {
+          "username": "bigdaddyboy420",
+          "userid": "1021618766217498695"
+        },
+        {
+          "username": "brayboi",
+          "userid": "756511988439318609"
+        },
+        {
+          "username": "cactusvr_official",
+          "userid": "532215322325811214"
+        },
+        {
+          "username": "caziggy1",
+          "userid": "603354584886542346"
+        },
+        {
+          "username": "choochooiscool",
+          "userid": "566367039896158306"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "blackcat508",
+          "userid": "729472479935987863"
+        },
+        {
+          "username": "thewhitecrescent",
+          "userid": "603669677582843905"
+        },
+        {
+          "username": "bramvleesjes",
+          "userid": "1290337356578160701"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "electra901",
+          "userid": "431961775857074186"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "roomba0790",
+          "userid": "1237377773123670089"
+        },
+        {
+          "username": "fchb1239",
+          "userid": "382937526668623893"
+        },
+        {
+          "username": "yourworstnightmar",
+          "userid": "971220242363731978"
+        },
+        {
+          "username": "frosty_cross",
+          "userid": "869294457441357964"
+        },
+        {
+          "username": "fruitbythefist",
+          "userid": "889612225147441222"
+        },
+        {
+          "username": "glingus",
+          "userid": "911753570653704252"
+        },
+        {
+          "username": "gman2giants_featured",
+          "userid": "1031735575402782830"
+        },
+        {
+          "username": "Grabby#3146",
+          "userid": "1026832636427108365"
+        },
+        {
+          "username": "GrabbyTickets#0468",
+          "userid": "1184181680982999142"
+        },
+        {
+          "username": "graythegamer820",
+          "userid": "943250336083218533"
+        },
+        {
+          "username": "gvpikachu",
+          "userid": "817995847253622794"
+        },
+        {
+          "username": "ima_rainbow",
+          "userid": "802312164924063795"
+        },
+        {
+          "username": "jbk777jbk",
+          "userid": "729979476192264242"
+        },
+        {
+          "username": "joshiidkwhy",
+          "userid": "411152650877272064"
+        },
+        {
+          "username": "keepnitweird",
+          "userid": "956015627972263986"
+        },
+        {
+          "username": "kookookrazy",
+          "userid": "787436440060952607"
+        },
+        {
+          "username": "krampy2",
+          "userid": "374636707976314881"
+        },
+        {
+          "username": "levi8020",
+          "userid": "806452636189589515"
+        },
+        {
+          "username": "milojensopha",
+          "userid": "1023731060321812501"
+        },
+        {
+          "username": "mrs.madlord",
+          "userid": "963959131641884672"
+        },
+        {
+          "username": "mystery8281",
+          "userid": "940461493462388786"
+        },
+        {
+          "username": "nos_duh",
+          "userid": "1036374784788922448"
+        },
+        {
+          "username": "plushgaming.",
+          "userid": "522584099949510667"
+        },
+        {
+          "username": "pnut0238",
+          "userid": "1248183258844368906"
+        },
+        {
+          "username": "bluduk",
+          "userid": "607899369957752832"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "coblerb1",
+          "userid": "1009767466748096573"
+        },
+        {
+          "username": "_noosh",
+          "userid": "1012122484507680818"
+        },
+        {
+          "username": "k1dfun",
+          "userid": "768634284951994369"
+        },
+        {
+          "username": "t_r_5_s",
+          "userid": "994853856552964158"
+        },
+        {
+          "username": "shaags",
+          "userid": "493170444573081623"
+        },
+        {
+          "username": "spacedude2076",
+          "userid": "601788810933698571"
+        },
+        {
+          "username": "dannytyd",
+          "userid": "780134555558346783"
+        },
+        {
+          "username": "cjbeast006",
+          "userid": "744288513779826831"
+        },
+        {
+          "username": "stand.i",
+          "userid": "916686267620663366"
+        },
+        {
+          "username": "supermeow10",
+          "userid": "970968883597041724"
+        },
+        {
+          "username": "d.goose",
+          "userid": "663202311031619624"
+        },
+        {
+          "username": "texedile",
+          "userid": "564273290558832642"
+        },
+        {
+          "username": "the.nothing",
+          "userid": "1002271562491252818"
+        },
+        {
+          "username": "kanyewestlover_9111",
+          "userid": "860571090874925076"
+        },
+        {
+          "username": "trap11190",
+          "userid": "769361939817168926"
+        },
+        {
+          "username": "troyy_",
+          "userid": "598592824518246430"
+        },
+        {
+          "username": "jeffbobdude",
+          "userid": "957759374846214194"
+        },
+        {
+          "username": "vivid7882",
+          "userid": "956346023184330762"
+        },
+        {
+          "username": "theofficialroomba",
+          "userid": "966806100093591612"
+        },
+        {
+          "username": "d2whiplash",
+          "userid": "867638749617979443"
+        },
+        {
+          "username": "wpbrotherly",
+          "userid": "851147374918500372"
+        },
+        {
+          "username": "xxlilradxx",
+          "userid": "222792696488656896"
+        },
+        {
+          "username": "zazipogchamp",
+          "userid": "792624587568709642"
+        },
+        {
+          "username": "boop_blob_bing",
+          "userid": "1111414978902233120"
+        },
+        {
+          "username": "ilovegrab",
+          "userid": "1176977149035548705"
+        }
+      ]
+    },
+    {
+      "name": "grab-tester-steam",
+      "id": "1090053467713843220",
+      "color": "#fff626",
+      "count": "10",
+      "users": [
+        {
+          "username": "vestriaa",
+          "userid": "958465544628076635"
+        },
+        {
+          "username": "bird_eagle",
+          "userid": "254366115923361793"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "evildragonvr",
+          "userid": "553909790720393217"
+        },
+        {
+          "username": "joshiidkwhy",
+          "userid": "411152650877272064"
+        },
+        {
+          "username": "kookookrazy",
+          "userid": "787436440060952607"
+        },
+        {
+          "username": "mystery8281",
+          "userid": "940461493462388786"
+        },
+        {
+          "username": "person615",
+          "userid": "267449293835599883"
+        },
+        {
+          "username": "royalant267",
+          "userid": "526585752927076356"
+        },
+        {
+          "username": "d.goose",
+          "userid": "663202311031619624"
+        }
+      ]
+    },
+    {
+      "name": "Server Booster",
+      "id": "921645723802566678",
+      "color": "#f47fff",
+      "count": "35",
+      "users": [
+        {
+          "username": "vestriaa",
+          "userid": "958465544628076635"
+        },
+        {
+          "username": "auransimia",
+          "userid": "600799174165921833"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "mdr1213_able_to_dm",
+          "userid": "1117982383304605768"
+        },
+        {
+          "username": "isabella554827",
+          "userid": "1126644749265281268"
+        },
+        {
+          "username": "logan01428",
+          "userid": "1183210667789000726"
+        },
+        {
+          "username": "3xlas",
+          "userid": "1002715119266042027"
+        },
+        {
+          "username": "8875rx",
+          "userid": "1095572099306893322"
+        },
+        {
+          "username": "_alwxx",
+          "userid": "1052956940365484072"
+        },
+        {
+          "username": "andrewvr1",
+          "userid": "1286203667544018946"
+        },
+        {
+          "username": "anton.exe",
+          "userid": "427151562641637376"
+        },
+        {
+          "username": "tmb.bliix",
+          "userid": "1096534496263819355"
+        },
+        {
+          "username": "watuprainb0w",
+          "userid": "792059554976366623"
+        },
+        {
+          "username": "reapifiedd",
+          "userid": "1190098259788714147"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "thewhitecrescent",
+          "userid": "603669677582843905"
+        },
+        {
+          "username": "thegoatisback1234",
+          "userid": "1206765330140241930"
+        },
+        {
+          "username": "drowskull",
+          "userid": "781627396629069852"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "evildragonvr",
+          "userid": "553909790720393217"
+        },
+        {
+          "username": ".fvrg",
+          "userid": "953528288356220978"
+        },
+        {
+          "username": "jacefera2",
+          "userid": "1243253150916280374"
+        },
+        {
+          "username": "k1dfun.",
+          "userid": "1295833152417304611"
+        },
+        {
+          "username": "blaze.ve",
+          "userid": "1133907510047297658"
+        },
+        {
+          "username": "mrs.madlord",
+          "userid": "963959131641884672"
+        },
+        {
+          "username": "mystery8281",
+          "userid": "940461493462388786"
+        },
+        {
+          "username": "pikevr",
+          "userid": "708444545494417449"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "_noosh",
+          "userid": "1012122484507680818"
+        },
+        {
+          "username": "k1dfun",
+          "userid": "768634284951994369"
+        },
+        {
+          "username": "reddixx.vr",
+          "userid": "1092594428738277386"
+        },
+        {
+          "username": "stand.i",
+          "userid": "916686267620663366"
+        },
+        {
+          "username": "the.nothing",
+          "userid": "1002271562491252818"
+        },
+        {
+          "username": "ubb5",
+          "userid": "1186132770167210010"
+        },
+        {
+          "username": "ilovegrab",
+          "userid": "1176977149035548705"
+        }
+      ]
+    },
+    {
+      "name": "GiveawayBot",
+      "id": "992726520445550605",
+      "count": "1",
+      "users": [
+        {
+          "username": "GiveawayBot#2381",
+          "userid": "294882584201003009"
+        }
+      ]
+    },
+    {
+      "name": "Grabby",
+      "id": "1026836473816830007",
+      "count": "1",
+      "users": [
+        {
+          "username": "Grabby#3146",
+          "userid": "1026832636427108365"
+        }
+      ]
+    },
+    {
+      "name": "Bot",
+      "id": "1026871083141443644",
+      "color": "#979c9f",
+      "count": "2",
+      "users": [
+        {
+          "username": "GiveawayBot#2381",
+          "userid": "294882584201003009"
+        },
+        {
+          "username": "Grabby#3146",
+          "userid": "1026832636427108365"
+        }
+      ]
+    },
+    {
+      "name": "game-nights-host",
+      "id": "1068689358032486461",
+      "count": "9",
+      "users": [
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "aft_daringg",
+          "userid": "1262906548590608426"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "krampy2",
+          "userid": "374636707976314881"
+        },
+        {
+          "username": "mrs.madlord",
+          "userid": "963959131641884672"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "the.nothing",
+          "userid": "1002271562491252818"
+        }
+      ]
+    },
+    {
+      "name": "Grabby-Tickets",
+      "id": "1184197196841746505",
+      "count": "1",
+      "users": [
+        {
+          "username": "GrabbyTickets#0468",
+          "userid": "1184181680982999142"
+        }
+      ]
+    },
+    {
+      "name": "grab-verifier",
+      "id": "1191549365710503936",
+      "count": "13",
+      "users": [
+        {
+          "username": "auransimia",
+          "userid": "600799174165921833"
+        },
+        {
+          "username": "levi_athan",
+          "userid": "792164879393357834"
+        },
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "balls0_",
+          "userid": "873630113000996905"
+        },
+        {
+          "username": "blackcat508",
+          "userid": "729472479935987863"
+        },
+        {
+          "username": "ebspark",
+          "userid": "461694991467544577"
+        },
+        {
+          "username": "yourworstnightmar",
+          "userid": "971220242363731978"
+        },
+        {
+          "username": "fruitbythefist",
+          "userid": "889612225147441222"
+        },
+        {
+          "username": "graythegamer820",
+          "userid": "943250336083218533"
+        },
+        {
+          "username": "mrs.madlord",
+          "userid": "963959131641884672"
+        },
+        {
+          "username": "ruby_famgal_foxton",
+          "userid": "934461048566714378"
+        },
+        {
+          "username": "kanyewestlover_9111",
+          "userid": "860571090874925076"
+        },
+        {
+          "username": "jeffbobdude",
+          "userid": "957759374846214194"
+        }
+      ]
+    },
+    {
+      "name": "ToxMod Official",
+      "id": "1199377173899903056",
+      "count": "1",
+      "users": [
+        {
+          "username": "modulatemorgan",
+          "userid": "831899723497340928"
+        }
+      ]
+    },
+    {
+      "name": "Simple Poll",
+      "id": "1216376889959252052",
+      "count": "1",
+      "users": [
+        {
+          "username": "Simple Poll#9879",
+          "userid": "324631108731928587"
+        }
+      ]
+    },
+    {
+      "name": "tv-crew",
+      "id": "1249050022209654806",
+      "count": "8",
+      "users": [
+        {
+          "username": "._eclipse_.",
+          "userid": "474081877276491786"
+        },
+        {
+          "username": "caziggy1",
+          "userid": "603354584886542346"
+        },
+        {
+          "username": "luhmao",
+          "userid": "459428318744150026"
+        },
+        {
+          "username": "convristreal",
+          "userid": "1213174163402137743"
+        },
+        {
+          "username": "fruitbythefist",
+          "userid": "889612225147441222"
+        },
+        {
+          "username": "glingus",
+          "userid": "911753570653704252"
+        },
+        {
+          "username": "the.nothing",
+          "userid": "1002271562491252818"
+        },
+        {
+          "username": "kanyewestlover_9111",
+          "userid": "860571090874925076"
+        }
+      ]
+    },
+    {
+      "name": "Freshtok",
+      "id": "1270343840955629694",
+      "count": "1",
+      "users": [
+        {
+          "username": "FreshTok#8739",
+          "userid": "890842672133201950"
+        }
+      ]
+    }
+  ]
+}
